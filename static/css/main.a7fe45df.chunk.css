@@ -1,0 +1,2 @@
+#sidebar{min-width:250px;max-width:250px;transition:all .3s;position:relative}#sidebar.active{margin-left:-250px}#sidebar .custom-menu{display:inline-block;position:absolute;top:20px;right:0;margin-right:-20px;transition:.3s}#sidebar .custom-menu .btn{width:40px;height:40px}
+/*# sourceMappingURL=main.a7fe45df.chunk.css.map */
