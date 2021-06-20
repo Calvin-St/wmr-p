@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CACA,eACE,WAAY,CACZ,UAAW,CACX,aACF","file":"main.873b7043.chunk.css","sourcesContent":["html {\r\n  scroll-behavior: smooth;\r\n}\r\nsection:before {\r\n  height: 54px;\r\n  content: '';\r\n  display: block;\r\n}\r\n"]}
